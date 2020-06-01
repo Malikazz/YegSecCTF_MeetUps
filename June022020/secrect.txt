@@ -1,0 +1,1 @@
+YEGSECCTF{StegoHide_Flag!}
